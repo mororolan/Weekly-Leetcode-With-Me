@@ -5,23 +5,22 @@
 * List : Top 100 Liked Question
 * Participants： Robin L / Hongjie Li / Jie Guo / Liuchang Yao / Peijun Tang
 
-## Week #1
-### Prograss
-- [x] NAME1 2022.07.xx
-- [ ] NAME2
+## August 2022
+### Hash Table
+| Index | Title                                             | Link                                                                                                                                  | Difficulty | Time     |
+|-------|---------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|------------|----------|
+| 1     | 01 Two Sum                                        | [problem](https://leetcode.com/problems/two-sum/) , [solution](/Robin-Python-Solution/01.py)                                          | Easy       | 21 Aug.  |
+| 2     | 03 longest substring without repeating characters | [problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/) , [solution](/Robin-Python-Solution/03.py)   | Medium     | 21 Aug.  |
 
-### Problems
-|  Index   | Title  | Difficulty |
-|  ----  | ----  | ----  |
-| 1  |  [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy |
+
+
+
+
+...
 | 2  |  [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium |
 | 3  |  [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium |
 
 
-## Week #2
-### Prograss
-- [x] NAME1 2022.07.xx
-- [ ] NAME2
 
 ### Problems
 |  Index   | Title  | Difficulty |
