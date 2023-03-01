@@ -1,7 +1,8 @@
-# Weekly-Leetcode-with-me
+# Leetcode-with-me
 
-Think before code.
+Plan logic before writing code.
 
-It is important to think structurally and distill key information.
+# Collaborators
 
-
+Robin L
+Yanjing L
